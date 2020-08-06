@@ -1,0 +1,110 @@
+{
+  "contractName": "TodoList",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a7230582018aa98daf2dc02323d14567a784a489491a1f7c0466d8f32b6a358c1d49334720029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a7230582018aa98daf2dc02323d14567a784a489491a1f7c0466d8f32b6a358c1d49334720029",
+  "sourceMap": "27:48:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:48:1;;;;;;;",
+  "deployedSourceMap": "27:48:1:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract TodoList {\r\n    // Code goes here...\r\n}",
+  "sourcePath": "C:/Users/jeffw/source/repos/eth-todo-list/contracts/TodoList.sol",
+  "ast": {
+    "absolutePath": "/C/Users/jeffw/source/repos/eth-todo-list/contracts/TodoList.sol",
+    "exportedSymbols": {
+      "TodoList": [
+        39
+      ]
+    },
+    "id": 40,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 38,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 39,
+        "linearizedBaseContracts": [
+          39
+        ],
+        "name": "TodoList",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 40,
+        "src": "27:48:1"
+      }
+    ],
+    "src": "0:75:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/jeffw/source/repos/eth-todo-list/contracts/TodoList.sol",
+    "exportedSymbols": {
+      "TodoList": [
+        39
+      ]
+    },
+    "id": 40,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 38,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 39,
+        "linearizedBaseContracts": [
+          39
+        ],
+        "name": "TodoList",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 40,
+        "src": "27:48:1"
+      }
+    ],
+    "src": "0:75:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x95b798Cd6C965A6E21902D83bd5Bd5b09275F282",
+      "transactionHash": "0x7ba79e52f63f08b06ef6f7d22eb039763d4d5829b2e7522ca2c72b6376606586"
+    }
+  },
+  "schemaVersion": "3.0.1",
+  "updatedAt": "2020-08-06T10:11:26.458Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
